@@ -15,8 +15,10 @@ Workflow.
 
 ## Sources from where I learned langgrpah and agentic AI:
 
-Youtube : https://youtu.be/yC36gN-rqjo?si=Suh54M9p80Ei7yAR
-LangGraph documentation : https://langchain-ai.github.io/langgraph/concepts/why-langgraph
+1) Youtube : https://youtu.be/yC36gN-rqjo?si=Suh54M9p80Ei7yAR
+2) LangGraph documentation : https://langchain-ai.github.io/langgraph/concepts/why-langgraph
+ 
 
 From these learning resources you will be able to build you own agents and make different type of workflows like sequential, parellel, condition based, HITL Etc.
+
 
