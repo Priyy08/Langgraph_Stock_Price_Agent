@@ -12,3 +12,10 @@ where passing of proper json objects is crucial in external API's, DB's etc to c
 Note: This is an simple langgraph workflow which demonstrates how simple sequential workflows are made and how they can be used to build agents with inter agent State
 passing and here it is an python only implementation which explains the core logic to build nodes and how to connect the nodes with edges to acheive an real life Agent
 Workflow.
+
+## Sources from where I learned langgrpah and agentic AI:
+
+Youtube : https://youtu.be/yC36gN-rqjo?si=Suh54M9p80Ei7yAR
+LangGraph official documentation : https://langchain-ai.github.io/langgraph/concepts/why-langgraph
+
+From these learning resources you will be able to build you own agents and make different type of workflows like sequential, parellel, condition based, HITL Etc.
